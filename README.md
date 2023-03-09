@@ -17,3 +17,5 @@ Last but not least, if you have any images that need to be converted into a PDF,
 ![Fucker-2023-03-09-01-08-37](https://user-images.githubusercontent.com/87281326/223881810-64afcb58-ba70-4d0c-b31f-0df4159721f3.png)
 
 You can also decide how the pages should be formatted, if to make it recognised by OCR or not, and even if you want it to be encrypted or not.
+
+This project is a fork of https://www.codeproject.com/Articles/37458/PDF-Viewer-Control-Without-Acrobat-Reader-Installe?msg=5435395#xx5435395xx
